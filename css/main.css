@@ -171,7 +171,8 @@ main p {
 }
 
 #home {
-    displaY: flex;
+    display: flex;
+    flex-direction: column;
 }
 
 #home img {
