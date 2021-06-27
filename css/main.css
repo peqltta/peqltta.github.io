@@ -170,6 +170,10 @@ main p {
     transition: transform 400ms;
 }
 
+iframe {
+    align-self: center;
+}
+
 .logo img {
     transform: rotate(0deg);
     transition: transform 500ms;
