@@ -170,7 +170,11 @@ main p {
     transition: transform 400ms;
 }
 
-iframe {
+#home {
+    displaY: flex;
+}
+
+#home img {
     align-self: center;
 }
 
